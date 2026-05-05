@@ -1,0 +1,7 @@
+{
+  "name": "TOEFL iBT Speaking Assistant: Listen and Repeat",
+  "description": "An interactive web application to practice the 'Listen and Repeat' task of the TOEFL iBT speaking section. It generates unique scenarios, records your responses, and provides AI-powered scoring based on official rubrics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
